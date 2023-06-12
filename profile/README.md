@@ -8,4 +8,4 @@ At our organization, we are dedicated to simplifying technology for engineers an
 
 ## Contact
 
-Connect with [@ScriptKKiddie](https://github.com/ScriptKKiddie) for any inquiries or collaborations.
+Connect with [@ScriptKkiddie](https://github.com/scriptkkiddie) for any inquiries or collaborations.
